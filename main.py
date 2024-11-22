@@ -4,3 +4,5 @@ def reverse(self, x: int) -> int:
 
     reversed_int = int(reversed_str)
 
+
+print('nimadir')
